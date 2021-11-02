@@ -22,7 +22,7 @@ Dbeaver - Download (Windows and Mac users)
  - Aggregating data
 
 ### Before you start:
-  - **Dbeaver program download** (how to avilable titled SQL_preworkshop)
+  - **Dbeaver program download** (how to available: SQL_preworkshop)
   ```bash
   https://dbeaver.io/
   ```
