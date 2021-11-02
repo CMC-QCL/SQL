@@ -1,7 +1,7 @@
 ### **SQL WorkShop**
 
 ### **QCL Literacy: L1-Coding**
-Instructor: Vanessa Casillas, Grad Fellow of the Quantitative and Computing Lab at Claremont McKenna College
+Instructor: Vanessa Casillas, Graduate Fellow of the Quantitative and Computing Lab at Claremont McKenna College
 
 ## **Summary**
 SQL is acronym for Structured Query Language. It is a language designed to access and work with relational databases. Relational databases store and provides access to data points that are related. Workshop will look at Data Definition Language (DDL), Data Manipulation Language (DML), and Data Query Language (DQL).
