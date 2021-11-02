@@ -18,8 +18,10 @@ Dbeaver - Download (Windows and Mac users)
  - Importing data
  - Creating a table 
  - Inserting data 
- - Querying the table 
+ - Querying a table 
+ - Joining tables
  - Aggregating data
+ - Hand-on activity
 
 ### Before you start:
   - **Dbeaver program download** (how to available: SQL_preworkshop)
