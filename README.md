@@ -13,12 +13,12 @@ This workshop is designed for beginners in SQL. No prior programming knowledge i
 Dbeaver - Download (windows and Mac users)
 
 #Agenda 
-SQL Intro 
-Dbeaver
-Importing data
-Creating a table 
-Inserting data 
-Querying the table 
-Aggregating data
+  SQL Intro 
+  Dbeaver
+  Importing data
+  Creating a table 
+  Inserting data 
+  Querying the table 
+  Aggregating data
 
 
