@@ -1,6 +1,5 @@
 insert into Stability_Data (iso_code, country, stable_index)
-values('AFG', 'Afghanistan', 102.9),
-('ALB', 'Albania', 58.75),
+values('ALB', 'Albania', 58.75),
 ('DZA', 'Algeria', 74.58),
 ('AGO', 'Angola', 87.32),
 ('ATG', 'Antigua and Barbuda', 52.06),
