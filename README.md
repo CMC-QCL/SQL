@@ -1,24 +1,35 @@
-# SQL
-SQL WorkShop
+### **SQL WorkShop**
+
+### **QCL Literacy: L1-Coding**
 Instructor: Vanessa Casillas, Grad Fellow of the Quantitative and Computing Lab at Claremont McKenna College
-QCL Literacy: L1-Coding
 
-#Summary
-A beginner's course to SQL
+## **Summary**
+SQL is acronym for Structured Query Language. It is a language designed to access and work with relational databases. Relational databases store and provides access to data points that are related. Workshop will look at Data Definition Language (DDL), Data Manipulation Language (DML), and Data Query Language (DQL).
 
-#Target Audience
+## **Target Audience**
 This workshop is designed for beginners in SQL. No prior programming knowledge is needed.
 
-#Required Software/Account
-Dbeaver - Download (windows and Mac users)
+## **Required Software/Account**
+Dbeaver - Download (Windows and Mac users)
 
-#Agenda 
-  SQL Intro 
-  Dbeaver
-  Importing data
-  Creating a table 
-  Inserting data 
-  Querying the table 
-  Aggregating data
+## **Agenda**
+ - SQL Intro 
+ - Dbeaver
+ - Importing data
+ - Creating a table 
+ - Inserting data 
+ - Querying the table 
+ - Aggregating data
 
+### Before you start:
+  - **Dbeaver program download** (how to avilable titled SQL_preworkshop)
+  ```bash
+  https://dbeaver.io/
+  ```
+  - **Download Datasets** for Hands-On exercise
+ 
+## **Data**
+  - Our World in Data (owid) on COVID by country and by continent 
+  - World Stability index data from Fund for Peace
 
+  
