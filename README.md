@@ -20,7 +20,6 @@ Dbeaver - Download (Windows and Mac users)
  - Inserting data 
  - Querying a table 
  - Joining tables
- - Aggregating data
  - Hand-on activity
 
 ### Before you start:
