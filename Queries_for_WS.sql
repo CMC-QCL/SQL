@@ -1,6 +1,6 @@
 /* [QCL WORKSHOP] SQL (Basic) 
  * Hands-on
- * by Vanessa Casillas (Gradute Fellow)
+ * by Vanessa Casillas (Graduate Fellow)
  */
 
 /* WARNING: MAKE SURE TO CHECK NAMES OF TABLES,
