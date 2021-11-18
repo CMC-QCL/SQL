@@ -31,8 +31,8 @@ DBeaver - Download (Windows and Mac users)
  
 ## **Data**
   -https://corgis-edu.github.io/corgis/
-    State Crime CSV File
-    State Demographics CSV and SQL Files
+   - State Crime CSV File
+   - State Demographics CSV and SQL Files
     
 
 
