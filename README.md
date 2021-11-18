@@ -10,11 +10,11 @@ SQL is acronym for Structured Query Language. It is a language designed to acces
 This workshop is designed for beginners in SQL. No prior programming knowledge is needed.
 
 ## **Required Software/Account**
-Dbeaver - Download (Windows and Mac users)
+DBeaver - Download (Windows and Mac users)
 
 ## **Agenda**
  - SQL Intro 
- - Dbeaver
+ - DBeaver
  - Importing data
  - Creating a table 
  - Inserting data 
@@ -30,7 +30,10 @@ Dbeaver - Download (Windows and Mac users)
   - **Download Datasets** for Hands-On exercise
  
 ## **Data**
-  - Our World in Data (owid) on COVID by country and by continent 
-  - World Stability index data from Fund for Peace
+  -https://corgis-edu.github.io/corgis/
+    State Crime CSV File
+    State Demographics CSV and SQL Files
+    
+
 
   
