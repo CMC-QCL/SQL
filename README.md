@@ -14,7 +14,7 @@ DataGrip - Download (Windows and Mac users)
 
 ## **Agenda**
  - SQL Intro 
- - DBeaver
+ - MySQL and DataGrip
  - Importing data
  - Creating a table 
  - Inserting data 
