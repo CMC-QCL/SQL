@@ -26,6 +26,8 @@ DataGrip - Download (Windows and Mac users)
   - **MySQL and DataGrip program download** (how to available: SQL_preworkshop)
   ```bash
   https://www.mysql.com/downloads/ 
+  ```
+  ```bash
   https://www.jetbrains.com/datagrip/
   ```
   - **Download Datasets** for Hands-On exercise
