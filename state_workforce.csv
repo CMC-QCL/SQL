@@ -1,4 +1,4 @@
-State,Population_Population_Percent_Change,Population_2014,Population_2010,Education_High_School_or_Higher,Education_Bachelors_Degree_or_Higher,Sales_Retail_Sales,Mean_Travel_Time_to_Work,Income_Median_Household_Income,Income_Per_Capita_Income,Income_Persons_Below_Poverty_Level
+State,Population_Percent_Change,Population_2014,Population_2010,Education_High_School_or_Higher,Education_Bachelors_Degree_or_Higher,Sales_Retail_Sales,Mean_Travel_Time_to_Work,Income_Median_Household_Income,Income_Per_Capita_Income,Income_Persons_Below_Poverty_Level
 Alabama,2.6,5024279,4779736,86.2,25.5,58564965,24.9,50536,27928,15.5
 Alaska,3,733391,710231,92.8,29.6,10474275,19.1,77640,36787,10.1
 Arizona,13.9,7151502,6392017,87.1,29.5,84716542,25.7,58945,30694,13.5

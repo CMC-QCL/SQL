@@ -1,4 +1,4 @@
-State,Crime_Year,Data_Population,Data_Rates_Property_Theft,Data_Rates_Violent_Robbery,Data_Totals_Property_Theft,Data_Totals_Violent_Robbery
+State,Crime_Year,Population,Rates_Property_Theft,Rates_Violent_Robbery,Totals_Property_Theft,Totals_Violent_Robbery
 Alabama,2019,4903185,531.9,80.4,26079,3941
 Alaska,2019,731545,487.1,112.9,3563,826
 Arizona,2019,7278717,394.3,88.1,28699,6410
