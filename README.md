@@ -10,7 +10,7 @@ SQL is acronym for Structured Query Language. It is a language designed to acces
 This workshop is designed for beginners in SQL. No prior programming knowledge is needed.
 
 ## **Required Software/Account**
-DBeaver - Download (Windows and Mac users)
+DataGrip - Download (Windows and Mac users)
 
 ## **Agenda**
  - SQL Intro 
@@ -23,9 +23,10 @@ DBeaver - Download (Windows and Mac users)
  - Hand-on activity
 
 ### Before you start:
-  - **Dbeaver program download** (how to available: SQL_preworkshop)
+  - **MySQL and DataGrip program download** (how to available: SQL_preworkshop)
   ```bash
-  https://dbeaver.io/
+  https://www.mysql.com/downloads/ 
+  https://www.jetbrains.com/datagrip/
   ```
   - **Download Datasets** for Hands-On exercise
  
