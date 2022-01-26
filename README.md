@@ -30,7 +30,6 @@ DataGrip - Download (Windows and Mac users)
   ```bash
   https://www.jetbrains.com/datagrip/
   ```
-  - **Download Datasets** for Hands-On exercise
  
 ## **Data**
   -https://corgis-edu.github.io/corgis/
