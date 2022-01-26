@@ -37,6 +37,6 @@ DataGrip - Download (Windows and Mac users)
    - State Crime CSV File
    - State Demographics CSV and SQL Files
     
-
+#Workshop creation by Cindy Cheng, QCL Grad Fellow (07-06-20
 
   
