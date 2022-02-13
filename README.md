@@ -1,7 +1,7 @@
 ### **SQL WorkShop**
 
 ### **QCL Literacy: L1-Coding**
-Instructor: Vanessa Casillas, Graduate Fellow of the Quantitative and Computing Lab at Claremont McKenna College
+Instructor: Graduate Fellow of the Quantitative and Computing Lab at Claremont McKenna College
 
 ## **Summary**
 SQL is acronym for Structured Query Language. It is a language designed to access and work with relational databases. Relational databases store and provides access to data points that are related. Workshop will look at Data Definition Language (DDL), Data Manipulation Language (DML), and Data Query Language (DQL).
@@ -30,13 +30,12 @@ DataGrip - Download (Windows and Mac users)
   ```bash
   https://www.jetbrains.com/datagrip/
   ```
-  - **Download Datasets** for Hands-On exercise
  
 ## **Data**
   -https://corgis-edu.github.io/corgis/
    - State Crime CSV File
    - State Demographics CSV and SQL Files
     
-
+#Workshop creation by Vanessa Casillas, QCL Grad Fellow (01-26-22)
 
   
