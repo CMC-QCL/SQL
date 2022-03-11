@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+SQL WorkShop
+QCL Literacy: L1-Coding
 
-You can use the [editor on GitHub](https://github.com/CMC-QCL/SQL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Instructor: Graduate Fellow of the Quantitative and Computing Lab at Claremont McKenna College
+Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SQL is acronym for Structured Query Language. It is a language designed to access and work with relational databases. Relational databases store and provides access to data points that are related. Workshop will look at Data Definition Language (DDL), Data Manipulation Language (DML), and Data Query Language (DQL).
+Target Audience
 
-### Markdown
+This workshop is designed for beginners in SQL. No prior programming knowledge is needed.
+Required Software/Account
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DataGrip - Download (Windows and Mac users)
+Agenda
 
-```markdown
-Syntax highlighted code block
+    SQL Intro
+    MySQL and DataGrip
+    Importing data
+    Creating a table
+    Inserting data
+    Querying a table
+    Joining tables
+    Hand-on activity
 
-# Header 1
-## Header 2
-### Header 3
+Before you start:
 
-- Bulleted
-- List
+    MySQL and DataGrip program download (how to available: SQL_preworkshop)
 
-1. Numbered
-2. List
+https://www.mysql.com/downloads/ 
 
-**Bold** and _Italic_ and `Code` text
+https://www.jetbrains.com/datagrip/
 
-[Link](url) and ![Image](src)
-```
+Data
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+-https://corgis-edu.github.io/corgis/
 
-### Jekyll Themes
+    State Crime CSV File
+    State Demographics CSV and SQL Files
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CMC-QCL/SQL/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#Workshop creation by Vanessa Casillas, QCL Grad Fellow (01-26-22)
